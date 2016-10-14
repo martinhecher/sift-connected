@@ -22,7 +22,7 @@
     "@redsift/redsift-bundler": "^0.5.3",
     "@redsift/sift-sdk-web": "^0.6.1",
     "@redsift/ui-rs-core": "^0.8.3",
-    "@redsift/ui-rs-hero": "^0.3.1",
+    "@redsift/ui-rs-hero": "^0.3.3",
     "gulp": "^3.9.1",
     "oauthio-web": "^0.5.2",
     "tingle.js": "^0.8.1"

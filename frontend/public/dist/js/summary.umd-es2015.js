@@ -2,7 +2,7 @@
 	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
 	typeof define === 'function' && define.amd ? define(factory) :
 	(global.SiftConnected = factory());
-}(this, (function () { 'use strict';
+}(this, (function () { 
 
 /**
  * Observable pattern implementation.
@@ -370,7 +370,7 @@ var loglevel = createCommonjsModule(function (module) {
 var loglevel$1 = (loglevel && typeof loglevel === 'object' && 'default' in loglevel ? loglevel['default'] : loglevel);
 
 var index$2 = createCommonjsModule(function (module) {
-'use strict';
+
 var toString = Object.prototype.toString;
 
 module.exports = function (x) {
@@ -382,7 +382,7 @@ module.exports = function (x) {
 var require$$0$2 = (index$2 && typeof index$2 === 'object' && 'default' in index$2 ? index$2['default'] : index$2);
 
 var index$1 = createCommonjsModule(function (module, exports) {
-'use strict';
+
 
 Object.defineProperty(exports, "__esModule", {
   value: true

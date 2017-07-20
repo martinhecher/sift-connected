@@ -13,4 +13,5 @@ Find out how to become a Sift developer at: https://redsift.com and check out ou
 Red Sift is and will always be free for developers to create and run Sifts.
 
 ## License
+
 MIT
